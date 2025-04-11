@@ -1,4 +1,4 @@
-# tree_envelope_in_bavarian_cities
+# Climate envelopes for urban trees in Bavarian Cities
 This repository contains a Jupyter Notebook that analyzes climate envelope data for Bavarian cities by processing raster data and municipal boundaries. The notebook computes pixel-based metrics for multiple tree species across different future time frames, clips the input rasters by city boundaries, and generates individual GeoTIFF files for every city–species–time frame combination. Finally, the output files are bundled into a ZIP archive to facilitate download.
 
 # Requirements
