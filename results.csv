@@ -1,0 +1,757 @@
+City,Species,Time_Frame,TOTAL_PIXELS,VALID_PIXELS,PCT_VALID
+Ingolstadt,Rotbuche,2011-2040,236,236,100.0
+Ingolstadt,Rotbuche,2041-2070,236,236,100.0
+Ingolstadt,Rotbuche,2071-2100,236,24,10.16949152542373
+Ingolstadt,Spitzahorn,2011-2040,236,236,100.0
+Ingolstadt,Spitzahorn,2041-2070,236,236,100.0
+Ingolstadt,Spitzahorn,2071-2100,236,0,0.0
+Ingolstadt,Bergahorn,2011-2040,236,236,100.0
+Ingolstadt,Bergahorn,2041-2070,236,236,100.0
+Ingolstadt,Bergahorn,2071-2100,236,236,100.0
+Ingolstadt,Stieleiche,2011-2040,236,236,100.0
+Ingolstadt,Stieleiche,2041-2070,236,236,100.0
+Ingolstadt,Stieleiche,2071-2100,236,236,100.0
+Ingolstadt,Winterlinde,2011-2040,236,236,100.0
+Ingolstadt,Winterlinde,2041-2070,236,236,100.0
+Ingolstadt,Winterlinde,2071-2100,236,236,100.0
+Ingolstadt,Haengebirke/Sandbirke,2011-2040,236,236,100.0
+Ingolstadt,Haengebirke/Sandbirke,2041-2070,236,236,100.0
+Ingolstadt,Haengebirke/Sandbirke,2071-2100,236,24,10.16949152542373
+Ingolstadt,Schwarzpappel,2011-2040,236,236,100.0
+Ingolstadt,Schwarzpappel,2041-2070,236,236,100.0
+Ingolstadt,Schwarzpappel,2071-2100,236,236,100.0
+Ingolstadt,Hainbuche,2011-2040,236,236,100.0
+Ingolstadt,Hainbuche,2041-2070,236,236,100.0
+Ingolstadt,Hainbuche,2071-2100,236,236,100.0
+Ingolstadt,Gemeine Esche,2011-2040,236,236,100.0
+Ingolstadt,Gemeine Esche,2041-2070,236,236,100.0
+Ingolstadt,Gemeine Esche,2071-2100,236,236,100.0
+Ingolstadt,Londoner Platane,2011-2040,236,236,100.0
+Ingolstadt,Londoner Platane,2041-2070,236,236,100.0
+Ingolstadt,Londoner Platane,2071-2100,236,236,100.0
+Ingolstadt,Gemeine Robinie,2011-2040,236,236,100.0
+Ingolstadt,Gemeine Robinie,2041-2070,236,236,100.0
+Ingolstadt,Gemeine Robinie,2071-2100,236,236,100.0
+Ingolstadt,Gewöhnliche Rosskastanie,2011-2040,236,236,100.0
+Ingolstadt,Gewöhnliche Rosskastanie,2041-2070,236,236,100.0
+Ingolstadt,Gewöhnliche Rosskastanie,2071-2100,236,236,100.0
+München,Rotbuche,2011-2040,538,538,100.0
+München,Rotbuche,2041-2070,538,538,100.0
+München,Rotbuche,2071-2100,538,538,100.0
+München,Spitzahorn,2011-2040,538,538,100.0
+München,Spitzahorn,2041-2070,538,538,100.0
+München,Spitzahorn,2071-2100,538,0,0.0
+München,Bergahorn,2011-2040,538,538,100.0
+München,Bergahorn,2041-2070,538,538,100.0
+München,Bergahorn,2071-2100,538,538,100.0
+München,Stieleiche,2011-2040,538,538,100.0
+München,Stieleiche,2041-2070,538,538,100.0
+München,Stieleiche,2071-2100,538,538,100.0
+München,Winterlinde,2011-2040,538,538,100.0
+München,Winterlinde,2041-2070,538,538,100.0
+München,Winterlinde,2071-2100,538,538,100.0
+München,Haengebirke/Sandbirke,2011-2040,538,538,100.0
+München,Haengebirke/Sandbirke,2041-2070,538,538,100.0
+München,Haengebirke/Sandbirke,2071-2100,538,538,100.0
+München,Schwarzpappel,2011-2040,538,538,100.0
+München,Schwarzpappel,2041-2070,538,538,100.0
+München,Schwarzpappel,2071-2100,538,538,100.0
+München,Hainbuche,2011-2040,538,538,100.0
+München,Hainbuche,2041-2070,538,538,100.0
+München,Hainbuche,2071-2100,538,538,100.0
+München,Gemeine Esche,2011-2040,538,538,100.0
+München,Gemeine Esche,2041-2070,538,538,100.0
+München,Gemeine Esche,2071-2100,538,538,100.0
+München,Londoner Platane,2011-2040,538,538,100.0
+München,Londoner Platane,2041-2070,538,538,100.0
+München,Londoner Platane,2071-2100,538,538,100.0
+München,Gemeine Robinie,2011-2040,538,538,100.0
+München,Gemeine Robinie,2041-2070,538,538,100.0
+München,Gemeine Robinie,2071-2100,538,538,100.0
+München,Gewöhnliche Rosskastanie,2011-2040,538,526,97.76951672862454
+München,Gewöhnliche Rosskastanie,2041-2070,538,538,100.0
+München,Gewöhnliche Rosskastanie,2071-2100,538,538,100.0
+Rosenheim,Rotbuche,2011-2040,62,62,100.0
+Rosenheim,Rotbuche,2041-2070,62,62,100.0
+Rosenheim,Rotbuche,2071-2100,62,62,100.0
+Rosenheim,Spitzahorn,2011-2040,62,0,0.0
+Rosenheim,Spitzahorn,2041-2070,62,0,0.0
+Rosenheim,Spitzahorn,2071-2100,62,0,0.0
+Rosenheim,Bergahorn,2011-2040,62,44,70.96774193548387
+Rosenheim,Bergahorn,2041-2070,62,62,100.0
+Rosenheim,Bergahorn,2071-2100,62,62,100.0
+Rosenheim,Stieleiche,2011-2040,62,62,100.0
+Rosenheim,Stieleiche,2041-2070,62,62,100.0
+Rosenheim,Stieleiche,2071-2100,62,62,100.0
+Rosenheim,Winterlinde,2011-2040,62,62,100.0
+Rosenheim,Winterlinde,2041-2070,62,62,100.0
+Rosenheim,Winterlinde,2071-2100,62,62,100.0
+Rosenheim,Haengebirke/Sandbirke,2011-2040,62,62,100.0
+Rosenheim,Haengebirke/Sandbirke,2041-2070,62,62,100.0
+Rosenheim,Haengebirke/Sandbirke,2071-2100,62,62,100.0
+Rosenheim,Schwarzpappel,2011-2040,62,0,0.0
+Rosenheim,Schwarzpappel,2041-2070,62,0,0.0
+Rosenheim,Schwarzpappel,2071-2100,62,0,0.0
+Rosenheim,Hainbuche,2011-2040,62,62,100.0
+Rosenheim,Hainbuche,2041-2070,62,62,100.0
+Rosenheim,Hainbuche,2071-2100,62,62,100.0
+Rosenheim,Gemeine Esche,2011-2040,62,62,100.0
+Rosenheim,Gemeine Esche,2041-2070,62,62,100.0
+Rosenheim,Gemeine Esche,2071-2100,62,62,100.0
+Rosenheim,Londoner Platane,2011-2040,62,62,100.0
+Rosenheim,Londoner Platane,2041-2070,62,62,100.0
+Rosenheim,Londoner Platane,2071-2100,62,62,100.0
+Rosenheim,Gemeine Robinie,2011-2040,62,62,100.0
+Rosenheim,Gemeine Robinie,2041-2070,62,62,100.0
+Rosenheim,Gemeine Robinie,2071-2100,62,62,100.0
+Rosenheim,Gewöhnliche Rosskastanie,2011-2040,62,0,0.0
+Rosenheim,Gewöhnliche Rosskastanie,2041-2070,62,0,0.0
+Rosenheim,Gewöhnliche Rosskastanie,2071-2100,62,0,0.0
+Dachau,Rotbuche,2011-2040,59,59,100.0
+Dachau,Rotbuche,2041-2070,59,59,100.0
+Dachau,Rotbuche,2071-2100,59,59,100.0
+Dachau,Spitzahorn,2011-2040,59,59,100.0
+Dachau,Spitzahorn,2041-2070,59,59,100.0
+Dachau,Spitzahorn,2071-2100,59,0,0.0
+Dachau,Bergahorn,2011-2040,59,59,100.0
+Dachau,Bergahorn,2041-2070,59,59,100.0
+Dachau,Bergahorn,2071-2100,59,59,100.0
+Dachau,Stieleiche,2011-2040,59,59,100.0
+Dachau,Stieleiche,2041-2070,59,59,100.0
+Dachau,Stieleiche,2071-2100,59,59,100.0
+Dachau,Winterlinde,2011-2040,59,59,100.0
+Dachau,Winterlinde,2041-2070,59,59,100.0
+Dachau,Winterlinde,2071-2100,59,59,100.0
+Dachau,Haengebirke/Sandbirke,2011-2040,59,59,100.0
+Dachau,Haengebirke/Sandbirke,2041-2070,59,59,100.0
+Dachau,Haengebirke/Sandbirke,2071-2100,59,59,100.0
+Dachau,Schwarzpappel,2011-2040,59,59,100.0
+Dachau,Schwarzpappel,2041-2070,59,59,100.0
+Dachau,Schwarzpappel,2071-2100,59,59,100.0
+Dachau,Hainbuche,2011-2040,59,59,100.0
+Dachau,Hainbuche,2041-2070,59,59,100.0
+Dachau,Hainbuche,2071-2100,59,59,100.0
+Dachau,Gemeine Esche,2011-2040,59,59,100.0
+Dachau,Gemeine Esche,2041-2070,59,59,100.0
+Dachau,Gemeine Esche,2071-2100,59,59,100.0
+Dachau,Londoner Platane,2011-2040,59,59,100.0
+Dachau,Londoner Platane,2041-2070,59,59,100.0
+Dachau,Londoner Platane,2071-2100,59,59,100.0
+Dachau,Gemeine Robinie,2011-2040,59,59,100.0
+Dachau,Gemeine Robinie,2041-2070,59,59,100.0
+Dachau,Gemeine Robinie,2071-2100,59,59,100.0
+Dachau,Gewöhnliche Rosskastanie,2011-2040,59,59,100.0
+Dachau,Gewöhnliche Rosskastanie,2041-2070,59,59,100.0
+Dachau,Gewöhnliche Rosskastanie,2071-2100,59,59,100.0
+Freising,Rotbuche,2011-2040,157,157,100.0
+Freising,Rotbuche,2041-2070,157,157,100.0
+Freising,Rotbuche,2071-2100,157,146,92.99363057324841
+Freising,Spitzahorn,2011-2040,157,157,100.0
+Freising,Spitzahorn,2041-2070,157,157,100.0
+Freising,Spitzahorn,2071-2100,157,0,0.0
+Freising,Bergahorn,2011-2040,157,157,100.0
+Freising,Bergahorn,2041-2070,157,157,100.0
+Freising,Bergahorn,2071-2100,157,157,100.0
+Freising,Stieleiche,2011-2040,157,157,100.0
+Freising,Stieleiche,2041-2070,157,157,100.0
+Freising,Stieleiche,2071-2100,157,157,100.0
+Freising,Winterlinde,2011-2040,157,157,100.0
+Freising,Winterlinde,2041-2070,157,157,100.0
+Freising,Winterlinde,2071-2100,157,157,100.0
+Freising,Haengebirke/Sandbirke,2011-2040,157,157,100.0
+Freising,Haengebirke/Sandbirke,2041-2070,157,157,100.0
+Freising,Haengebirke/Sandbirke,2071-2100,157,146,92.99363057324841
+Freising,Schwarzpappel,2011-2040,157,157,100.0
+Freising,Schwarzpappel,2041-2070,157,157,100.0
+Freising,Schwarzpappel,2071-2100,157,157,100.0
+Freising,Hainbuche,2011-2040,157,157,100.0
+Freising,Hainbuche,2041-2070,157,157,100.0
+Freising,Hainbuche,2071-2100,157,157,100.0
+Freising,Gemeine Esche,2011-2040,157,157,100.0
+Freising,Gemeine Esche,2041-2070,157,157,100.0
+Freising,Gemeine Esche,2071-2100,157,157,100.0
+Freising,Londoner Platane,2011-2040,157,157,100.0
+Freising,Londoner Platane,2041-2070,157,157,100.0
+Freising,Londoner Platane,2071-2100,157,157,100.0
+Freising,Gemeine Robinie,2011-2040,157,157,100.0
+Freising,Gemeine Robinie,2041-2070,157,157,100.0
+Freising,Gemeine Robinie,2071-2100,157,157,100.0
+Freising,Gewöhnliche Rosskastanie,2011-2040,157,157,100.0
+Freising,Gewöhnliche Rosskastanie,2041-2070,157,157,100.0
+Freising,Gewöhnliche Rosskastanie,2071-2100,157,157,100.0
+Landshut,Rotbuche,2011-2040,115,115,100.0
+Landshut,Rotbuche,2041-2070,115,115,100.0
+Landshut,Rotbuche,2071-2100,115,37,32.17391304347826
+Landshut,Spitzahorn,2011-2040,115,115,100.0
+Landshut,Spitzahorn,2041-2070,115,115,100.0
+Landshut,Spitzahorn,2071-2100,115,0,0.0
+Landshut,Bergahorn,2011-2040,115,115,100.0
+Landshut,Bergahorn,2041-2070,115,115,100.0
+Landshut,Bergahorn,2071-2100,115,115,100.0
+Landshut,Stieleiche,2011-2040,115,115,100.0
+Landshut,Stieleiche,2041-2070,115,115,100.0
+Landshut,Stieleiche,2071-2100,115,115,100.0
+Landshut,Winterlinde,2011-2040,115,115,100.0
+Landshut,Winterlinde,2041-2070,115,115,100.0
+Landshut,Winterlinde,2071-2100,115,115,100.0
+Landshut,Haengebirke/Sandbirke,2011-2040,115,115,100.0
+Landshut,Haengebirke/Sandbirke,2041-2070,115,115,100.0
+Landshut,Haengebirke/Sandbirke,2071-2100,115,37,32.17391304347826
+Landshut,Schwarzpappel,2011-2040,115,115,100.0
+Landshut,Schwarzpappel,2041-2070,115,115,100.0
+Landshut,Schwarzpappel,2071-2100,115,115,100.0
+Landshut,Hainbuche,2011-2040,115,115,100.0
+Landshut,Hainbuche,2041-2070,115,115,100.0
+Landshut,Hainbuche,2071-2100,115,115,100.0
+Landshut,Gemeine Esche,2011-2040,115,115,100.0
+Landshut,Gemeine Esche,2041-2070,115,115,100.0
+Landshut,Gemeine Esche,2071-2100,115,115,100.0
+Landshut,Londoner Platane,2011-2040,115,115,100.0
+Landshut,Londoner Platane,2041-2070,115,115,100.0
+Landshut,Londoner Platane,2071-2100,115,115,100.0
+Landshut,Gemeine Robinie,2011-2040,115,115,100.0
+Landshut,Gemeine Robinie,2041-2070,115,115,100.0
+Landshut,Gemeine Robinie,2071-2100,115,115,100.0
+Landshut,Gewöhnliche Rosskastanie,2011-2040,115,115,100.0
+Landshut,Gewöhnliche Rosskastanie,2041-2070,115,115,100.0
+Landshut,Gewöhnliche Rosskastanie,2071-2100,115,115,100.0
+Passau,Rotbuche,2011-2040,125,125,100.0
+Passau,Rotbuche,2041-2070,125,125,100.0
+Passau,Rotbuche,2071-2100,125,36,28.799999999999997
+Passau,Spitzahorn,2011-2040,125,125,100.0
+Passau,Spitzahorn,2041-2070,125,125,100.0
+Passau,Spitzahorn,2071-2100,125,0,0.0
+Passau,Bergahorn,2011-2040,125,125,100.0
+Passau,Bergahorn,2041-2070,125,125,100.0
+Passau,Bergahorn,2071-2100,125,125,100.0
+Passau,Stieleiche,2011-2040,125,125,100.0
+Passau,Stieleiche,2041-2070,125,125,100.0
+Passau,Stieleiche,2071-2100,125,125,100.0
+Passau,Winterlinde,2011-2040,125,125,100.0
+Passau,Winterlinde,2041-2070,125,125,100.0
+Passau,Winterlinde,2071-2100,125,125,100.0
+Passau,Haengebirke/Sandbirke,2011-2040,125,125,100.0
+Passau,Haengebirke/Sandbirke,2041-2070,125,125,100.0
+Passau,Haengebirke/Sandbirke,2071-2100,125,36,28.799999999999997
+Passau,Schwarzpappel,2011-2040,125,125,100.0
+Passau,Schwarzpappel,2041-2070,125,125,100.0
+Passau,Schwarzpappel,2071-2100,125,125,100.0
+Passau,Hainbuche,2011-2040,125,125,100.0
+Passau,Hainbuche,2041-2070,125,125,100.0
+Passau,Hainbuche,2071-2100,125,125,100.0
+Passau,Gemeine Esche,2011-2040,125,125,100.0
+Passau,Gemeine Esche,2041-2070,125,125,100.0
+Passau,Gemeine Esche,2071-2100,125,125,100.0
+Passau,Londoner Platane,2011-2040,125,125,100.0
+Passau,Londoner Platane,2041-2070,125,125,100.0
+Passau,Londoner Platane,2071-2100,125,125,100.0
+Passau,Gemeine Robinie,2011-2040,125,125,100.0
+Passau,Gemeine Robinie,2041-2070,125,125,100.0
+Passau,Gemeine Robinie,2071-2100,125,125,100.0
+Passau,Gewöhnliche Rosskastanie,2011-2040,125,124,99.2
+Passau,Gewöhnliche Rosskastanie,2041-2070,125,125,100.0
+Passau,Gewöhnliche Rosskastanie,2071-2100,125,125,100.0
+Straubing,Rotbuche,2011-2040,121,121,100.0
+Straubing,Rotbuche,2041-2070,121,121,100.0
+Straubing,Rotbuche,2071-2100,121,0,0.0
+Straubing,Spitzahorn,2011-2040,121,121,100.0
+Straubing,Spitzahorn,2041-2070,121,121,100.0
+Straubing,Spitzahorn,2071-2100,121,0,0.0
+Straubing,Bergahorn,2011-2040,121,121,100.0
+Straubing,Bergahorn,2041-2070,121,121,100.0
+Straubing,Bergahorn,2071-2100,121,121,100.0
+Straubing,Stieleiche,2011-2040,121,121,100.0
+Straubing,Stieleiche,2041-2070,121,121,100.0
+Straubing,Stieleiche,2071-2100,121,121,100.0
+Straubing,Winterlinde,2011-2040,121,121,100.0
+Straubing,Winterlinde,2041-2070,121,121,100.0
+Straubing,Winterlinde,2071-2100,121,121,100.0
+Straubing,Haengebirke/Sandbirke,2011-2040,121,121,100.0
+Straubing,Haengebirke/Sandbirke,2041-2070,121,121,100.0
+Straubing,Haengebirke/Sandbirke,2071-2100,121,0,0.0
+Straubing,Schwarzpappel,2011-2040,121,121,100.0
+Straubing,Schwarzpappel,2041-2070,121,121,100.0
+Straubing,Schwarzpappel,2071-2100,121,121,100.0
+Straubing,Hainbuche,2011-2040,121,121,100.0
+Straubing,Hainbuche,2041-2070,121,121,100.0
+Straubing,Hainbuche,2071-2100,121,121,100.0
+Straubing,Gemeine Esche,2011-2040,121,121,100.0
+Straubing,Gemeine Esche,2041-2070,121,121,100.0
+Straubing,Gemeine Esche,2071-2100,121,121,100.0
+Straubing,Londoner Platane,2011-2040,121,121,100.0
+Straubing,Londoner Platane,2041-2070,121,121,100.0
+Straubing,Londoner Platane,2071-2100,121,121,100.0
+Straubing,Gemeine Robinie,2011-2040,121,121,100.0
+Straubing,Gemeine Robinie,2041-2070,121,121,100.0
+Straubing,Gemeine Robinie,2071-2100,121,121,100.0
+Straubing,Gewöhnliche Rosskastanie,2011-2040,121,121,100.0
+Straubing,Gewöhnliche Rosskastanie,2041-2070,121,121,100.0
+Straubing,Gewöhnliche Rosskastanie,2071-2100,121,121,100.0
+Regensburg,Rotbuche,2011-2040,140,140,100.0
+Regensburg,Rotbuche,2041-2070,140,140,100.0
+Regensburg,Rotbuche,2071-2100,140,140,100.0
+Regensburg,Spitzahorn,2011-2040,140,140,100.0
+Regensburg,Spitzahorn,2041-2070,140,140,100.0
+Regensburg,Spitzahorn,2071-2100,140,0,0.0
+Regensburg,Bergahorn,2011-2040,140,140,100.0
+Regensburg,Bergahorn,2041-2070,140,140,100.0
+Regensburg,Bergahorn,2071-2100,140,140,100.0
+Regensburg,Stieleiche,2011-2040,140,140,100.0
+Regensburg,Stieleiche,2041-2070,140,140,100.0
+Regensburg,Stieleiche,2071-2100,140,140,100.0
+Regensburg,Winterlinde,2011-2040,140,140,100.0
+Regensburg,Winterlinde,2041-2070,140,140,100.0
+Regensburg,Winterlinde,2071-2100,140,140,100.0
+Regensburg,Haengebirke/Sandbirke,2011-2040,140,140,100.0
+Regensburg,Haengebirke/Sandbirke,2041-2070,140,140,100.0
+Regensburg,Haengebirke/Sandbirke,2071-2100,140,140,100.0
+Regensburg,Schwarzpappel,2011-2040,140,140,100.0
+Regensburg,Schwarzpappel,2041-2070,140,140,100.0
+Regensburg,Schwarzpappel,2071-2100,140,140,100.0
+Regensburg,Hainbuche,2011-2040,140,140,100.0
+Regensburg,Hainbuche,2041-2070,140,140,100.0
+Regensburg,Hainbuche,2071-2100,140,140,100.0
+Regensburg,Gemeine Esche,2011-2040,140,140,100.0
+Regensburg,Gemeine Esche,2041-2070,140,140,100.0
+Regensburg,Gemeine Esche,2071-2100,140,140,100.0
+Regensburg,Londoner Platane,2011-2040,140,140,100.0
+Regensburg,Londoner Platane,2041-2070,140,140,100.0
+Regensburg,Londoner Platane,2071-2100,140,140,100.0
+Regensburg,Gemeine Robinie,2011-2040,140,140,100.0
+Regensburg,Gemeine Robinie,2041-2070,140,140,100.0
+Regensburg,Gemeine Robinie,2071-2100,140,140,100.0
+Regensburg,Gewöhnliche Rosskastanie,2011-2040,140,140,100.0
+Regensburg,Gewöhnliche Rosskastanie,2041-2070,140,140,100.0
+Regensburg,Gewöhnliche Rosskastanie,2071-2100,140,140,100.0
+Bamberg,Rotbuche,2011-2040,100,100,100.0
+Bamberg,Rotbuche,2041-2070,100,100,100.0
+Bamberg,Rotbuche,2071-2100,100,46,46.0
+Bamberg,Spitzahorn,2011-2040,100,100,100.0
+Bamberg,Spitzahorn,2041-2070,100,100,100.0
+Bamberg,Spitzahorn,2071-2100,100,0,0.0
+Bamberg,Bergahorn,2011-2040,100,100,100.0
+Bamberg,Bergahorn,2041-2070,100,100,100.0
+Bamberg,Bergahorn,2071-2100,100,100,100.0
+Bamberg,Stieleiche,2011-2040,100,100,100.0
+Bamberg,Stieleiche,2041-2070,100,100,100.0
+Bamberg,Stieleiche,2071-2100,100,100,100.0
+Bamberg,Winterlinde,2011-2040,100,100,100.0
+Bamberg,Winterlinde,2041-2070,100,100,100.0
+Bamberg,Winterlinde,2071-2100,100,100,100.0
+Bamberg,Haengebirke/Sandbirke,2011-2040,100,100,100.0
+Bamberg,Haengebirke/Sandbirke,2041-2070,100,100,100.0
+Bamberg,Haengebirke/Sandbirke,2071-2100,100,46,46.0
+Bamberg,Schwarzpappel,2011-2040,100,100,100.0
+Bamberg,Schwarzpappel,2041-2070,100,100,100.0
+Bamberg,Schwarzpappel,2071-2100,100,100,100.0
+Bamberg,Hainbuche,2011-2040,100,100,100.0
+Bamberg,Hainbuche,2041-2070,100,100,100.0
+Bamberg,Hainbuche,2071-2100,100,100,100.0
+Bamberg,Gemeine Esche,2011-2040,100,100,100.0
+Bamberg,Gemeine Esche,2041-2070,100,100,100.0
+Bamberg,Gemeine Esche,2071-2100,100,100,100.0
+Bamberg,Londoner Platane,2011-2040,100,100,100.0
+Bamberg,Londoner Platane,2041-2070,100,100,100.0
+Bamberg,Londoner Platane,2071-2100,100,100,100.0
+Bamberg,Gemeine Robinie,2011-2040,100,100,100.0
+Bamberg,Gemeine Robinie,2041-2070,100,100,100.0
+Bamberg,Gemeine Robinie,2071-2100,100,100,100.0
+Bamberg,Gewöhnliche Rosskastanie,2011-2040,100,100,100.0
+Bamberg,Gewöhnliche Rosskastanie,2041-2070,100,100,100.0
+Bamberg,Gewöhnliche Rosskastanie,2071-2100,100,100,100.0
+Bayreuth,Rotbuche,2011-2040,119,119,100.0
+Bayreuth,Rotbuche,2041-2070,119,119,100.0
+Bayreuth,Rotbuche,2071-2100,119,119,100.0
+Bayreuth,Spitzahorn,2011-2040,119,119,100.0
+Bayreuth,Spitzahorn,2041-2070,119,119,100.0
+Bayreuth,Spitzahorn,2071-2100,119,33,27.73109243697479
+Bayreuth,Bergahorn,2011-2040,119,119,100.0
+Bayreuth,Bergahorn,2041-2070,119,119,100.0
+Bayreuth,Bergahorn,2071-2100,119,119,100.0
+Bayreuth,Stieleiche,2011-2040,119,119,100.0
+Bayreuth,Stieleiche,2041-2070,119,119,100.0
+Bayreuth,Stieleiche,2071-2100,119,119,100.0
+Bayreuth,Winterlinde,2011-2040,119,119,100.0
+Bayreuth,Winterlinde,2041-2070,119,119,100.0
+Bayreuth,Winterlinde,2071-2100,119,119,100.0
+Bayreuth,Haengebirke/Sandbirke,2011-2040,119,119,100.0
+Bayreuth,Haengebirke/Sandbirke,2041-2070,119,119,100.0
+Bayreuth,Haengebirke/Sandbirke,2071-2100,119,119,100.0
+Bayreuth,Schwarzpappel,2011-2040,119,119,100.0
+Bayreuth,Schwarzpappel,2041-2070,119,119,100.0
+Bayreuth,Schwarzpappel,2071-2100,119,119,100.0
+Bayreuth,Hainbuche,2011-2040,119,119,100.0
+Bayreuth,Hainbuche,2041-2070,119,119,100.0
+Bayreuth,Hainbuche,2071-2100,119,119,100.0
+Bayreuth,Gemeine Esche,2011-2040,119,119,100.0
+Bayreuth,Gemeine Esche,2041-2070,119,119,100.0
+Bayreuth,Gemeine Esche,2071-2100,119,119,100.0
+Bayreuth,Londoner Platane,2011-2040,119,119,100.0
+Bayreuth,Londoner Platane,2041-2070,119,119,100.0
+Bayreuth,Londoner Platane,2071-2100,119,119,100.0
+Bayreuth,Gemeine Robinie,2011-2040,119,119,100.0
+Bayreuth,Gemeine Robinie,2041-2070,119,119,100.0
+Bayreuth,Gemeine Robinie,2071-2100,119,119,100.0
+Bayreuth,Gewöhnliche Rosskastanie,2011-2040,119,119,100.0
+Bayreuth,Gewöhnliche Rosskastanie,2041-2070,119,119,100.0
+Bayreuth,Gewöhnliche Rosskastanie,2071-2100,119,119,100.0
+Hof,Rotbuche,2011-2040,108,108,100.0
+Hof,Rotbuche,2041-2070,108,108,100.0
+Hof,Rotbuche,2071-2100,108,108,100.0
+Hof,Spitzahorn,2011-2040,108,108,100.0
+Hof,Spitzahorn,2041-2070,108,108,100.0
+Hof,Spitzahorn,2071-2100,108,108,100.0
+Hof,Bergahorn,2011-2040,108,108,100.0
+Hof,Bergahorn,2041-2070,108,108,100.0
+Hof,Bergahorn,2071-2100,108,108,100.0
+Hof,Stieleiche,2011-2040,108,108,100.0
+Hof,Stieleiche,2041-2070,108,108,100.0
+Hof,Stieleiche,2071-2100,108,108,100.0
+Hof,Winterlinde,2011-2040,108,108,100.0
+Hof,Winterlinde,2041-2070,108,108,100.0
+Hof,Winterlinde,2071-2100,108,108,100.0
+Hof,Haengebirke/Sandbirke,2011-2040,108,108,100.0
+Hof,Haengebirke/Sandbirke,2041-2070,108,108,100.0
+Hof,Haengebirke/Sandbirke,2071-2100,108,108,100.0
+Hof,Schwarzpappel,2011-2040,108,108,100.0
+Hof,Schwarzpappel,2041-2070,108,108,100.0
+Hof,Schwarzpappel,2071-2100,108,108,100.0
+Hof,Hainbuche,2011-2040,108,108,100.0
+Hof,Hainbuche,2041-2070,108,108,100.0
+Hof,Hainbuche,2071-2100,108,108,100.0
+Hof,Gemeine Esche,2011-2040,108,108,100.0
+Hof,Gemeine Esche,2041-2070,108,108,100.0
+Hof,Gemeine Esche,2071-2100,108,108,100.0
+Hof,Londoner Platane,2011-2040,108,108,100.0
+Hof,Londoner Platane,2041-2070,108,108,100.0
+Hof,Londoner Platane,2071-2100,108,108,100.0
+Hof,Gemeine Robinie,2011-2040,108,108,100.0
+Hof,Gemeine Robinie,2041-2070,108,108,100.0
+Hof,Gemeine Robinie,2071-2100,108,108,100.0
+Hof,Gewöhnliche Rosskastanie,2011-2040,108,108,100.0
+Hof,Gewöhnliche Rosskastanie,2041-2070,108,108,100.0
+Hof,Gewöhnliche Rosskastanie,2071-2100,108,108,100.0
+Erlangen,Rotbuche,2011-2040,137,137,100.0
+Erlangen,Rotbuche,2041-2070,137,137,100.0
+Erlangen,Rotbuche,2071-2100,137,77,56.20437956204379
+Erlangen,Spitzahorn,2011-2040,137,137,100.0
+Erlangen,Spitzahorn,2041-2070,137,137,100.0
+Erlangen,Spitzahorn,2071-2100,137,0,0.0
+Erlangen,Bergahorn,2011-2040,137,137,100.0
+Erlangen,Bergahorn,2041-2070,137,137,100.0
+Erlangen,Bergahorn,2071-2100,137,137,100.0
+Erlangen,Stieleiche,2011-2040,137,137,100.0
+Erlangen,Stieleiche,2041-2070,137,137,100.0
+Erlangen,Stieleiche,2071-2100,137,137,100.0
+Erlangen,Winterlinde,2011-2040,137,137,100.0
+Erlangen,Winterlinde,2041-2070,137,137,100.0
+Erlangen,Winterlinde,2071-2100,137,137,100.0
+Erlangen,Haengebirke/Sandbirke,2011-2040,137,137,100.0
+Erlangen,Haengebirke/Sandbirke,2041-2070,137,137,100.0
+Erlangen,Haengebirke/Sandbirke,2071-2100,137,77,56.20437956204379
+Erlangen,Schwarzpappel,2011-2040,137,137,100.0
+Erlangen,Schwarzpappel,2041-2070,137,137,100.0
+Erlangen,Schwarzpappel,2071-2100,137,137,100.0
+Erlangen,Hainbuche,2011-2040,137,137,100.0
+Erlangen,Hainbuche,2041-2070,137,137,100.0
+Erlangen,Hainbuche,2071-2100,137,137,100.0
+Erlangen,Gemeine Esche,2011-2040,137,137,100.0
+Erlangen,Gemeine Esche,2041-2070,137,137,100.0
+Erlangen,Gemeine Esche,2071-2100,137,137,100.0
+Erlangen,Londoner Platane,2011-2040,137,137,100.0
+Erlangen,Londoner Platane,2041-2070,137,137,100.0
+Erlangen,Londoner Platane,2071-2100,137,137,100.0
+Erlangen,Gemeine Robinie,2011-2040,137,137,100.0
+Erlangen,Gemeine Robinie,2041-2070,137,137,100.0
+Erlangen,Gemeine Robinie,2071-2100,137,137,100.0
+Erlangen,Gewöhnliche Rosskastanie,2011-2040,137,137,100.0
+Erlangen,Gewöhnliche Rosskastanie,2041-2070,137,137,100.0
+Erlangen,Gewöhnliche Rosskastanie,2071-2100,137,137,100.0
+Fürth,Rotbuche,2011-2040,112,112,100.0
+Fürth,Rotbuche,2041-2070,112,112,100.0
+Fürth,Rotbuche,2071-2100,112,45,40.17857142857143
+Fürth,Spitzahorn,2011-2040,112,112,100.0
+Fürth,Spitzahorn,2041-2070,112,112,100.0
+Fürth,Spitzahorn,2071-2100,112,0,0.0
+Fürth,Bergahorn,2011-2040,112,112,100.0
+Fürth,Bergahorn,2041-2070,112,112,100.0
+Fürth,Bergahorn,2071-2100,112,112,100.0
+Fürth,Stieleiche,2011-2040,112,112,100.0
+Fürth,Stieleiche,2041-2070,112,112,100.0
+Fürth,Stieleiche,2071-2100,112,112,100.0
+Fürth,Winterlinde,2011-2040,112,112,100.0
+Fürth,Winterlinde,2041-2070,112,112,100.0
+Fürth,Winterlinde,2071-2100,112,112,100.0
+Fürth,Haengebirke/Sandbirke,2011-2040,112,112,100.0
+Fürth,Haengebirke/Sandbirke,2041-2070,112,112,100.0
+Fürth,Haengebirke/Sandbirke,2071-2100,112,45,40.17857142857143
+Fürth,Schwarzpappel,2011-2040,112,112,100.0
+Fürth,Schwarzpappel,2041-2070,112,112,100.0
+Fürth,Schwarzpappel,2071-2100,112,112,100.0
+Fürth,Hainbuche,2011-2040,112,112,100.0
+Fürth,Hainbuche,2041-2070,112,112,100.0
+Fürth,Hainbuche,2071-2100,112,112,100.0
+Fürth,Gemeine Esche,2011-2040,112,112,100.0
+Fürth,Gemeine Esche,2041-2070,112,112,100.0
+Fürth,Gemeine Esche,2071-2100,112,112,100.0
+Fürth,Londoner Platane,2011-2040,112,112,100.0
+Fürth,Londoner Platane,2041-2070,112,112,100.0
+Fürth,Londoner Platane,2071-2100,112,112,100.0
+Fürth,Gemeine Robinie,2011-2040,112,112,100.0
+Fürth,Gemeine Robinie,2041-2070,112,112,100.0
+Fürth,Gemeine Robinie,2071-2100,112,112,100.0
+Fürth,Gewöhnliche Rosskastanie,2011-2040,112,112,100.0
+Fürth,Gewöhnliche Rosskastanie,2041-2070,112,112,100.0
+Fürth,Gewöhnliche Rosskastanie,2071-2100,112,112,100.0
+Nürnberg,Rotbuche,2011-2040,334,334,100.0
+Nürnberg,Rotbuche,2041-2070,334,334,100.0
+Nürnberg,Rotbuche,2071-2100,334,182,54.49101796407185
+Nürnberg,Spitzahorn,2011-2040,334,334,100.0
+Nürnberg,Spitzahorn,2041-2070,334,334,100.0
+Nürnberg,Spitzahorn,2071-2100,334,0,0.0
+Nürnberg,Bergahorn,2011-2040,334,334,100.0
+Nürnberg,Bergahorn,2041-2070,334,334,100.0
+Nürnberg,Bergahorn,2071-2100,334,334,100.0
+Nürnberg,Stieleiche,2011-2040,334,334,100.0
+Nürnberg,Stieleiche,2041-2070,334,334,100.0
+Nürnberg,Stieleiche,2071-2100,334,334,100.0
+Nürnberg,Winterlinde,2011-2040,334,334,100.0
+Nürnberg,Winterlinde,2041-2070,334,334,100.0
+Nürnberg,Winterlinde,2071-2100,334,334,100.0
+Nürnberg,Haengebirke/Sandbirke,2011-2040,334,334,100.0
+Nürnberg,Haengebirke/Sandbirke,2041-2070,334,334,100.0
+Nürnberg,Haengebirke/Sandbirke,2071-2100,334,182,54.49101796407185
+Nürnberg,Schwarzpappel,2011-2040,334,334,100.0
+Nürnberg,Schwarzpappel,2041-2070,334,334,100.0
+Nürnberg,Schwarzpappel,2071-2100,334,334,100.0
+Nürnberg,Hainbuche,2011-2040,334,334,100.0
+Nürnberg,Hainbuche,2041-2070,334,334,100.0
+Nürnberg,Hainbuche,2071-2100,334,334,100.0
+Nürnberg,Gemeine Esche,2011-2040,334,334,100.0
+Nürnberg,Gemeine Esche,2041-2070,334,334,100.0
+Nürnberg,Gemeine Esche,2071-2100,334,334,100.0
+Nürnberg,Londoner Platane,2011-2040,334,334,100.0
+Nürnberg,Londoner Platane,2041-2070,334,334,100.0
+Nürnberg,Londoner Platane,2071-2100,334,334,100.0
+Nürnberg,Gemeine Robinie,2011-2040,334,334,100.0
+Nürnberg,Gemeine Robinie,2041-2070,334,334,100.0
+Nürnberg,Gemeine Robinie,2071-2100,334,334,100.0
+Nürnberg,Gewöhnliche Rosskastanie,2011-2040,334,334,100.0
+Nürnberg,Gewöhnliche Rosskastanie,2041-2070,334,334,100.0
+Nürnberg,Gewöhnliche Rosskastanie,2071-2100,334,334,100.0
+Aschaffenburg,Rotbuche,2011-2040,109,109,100.0
+Aschaffenburg,Rotbuche,2041-2070,109,109,100.0
+Aschaffenburg,Rotbuche,2071-2100,109,11,10.091743119266056
+Aschaffenburg,Spitzahorn,2011-2040,109,109,100.0
+Aschaffenburg,Spitzahorn,2041-2070,109,109,100.0
+Aschaffenburg,Spitzahorn,2071-2100,109,0,0.0
+Aschaffenburg,Bergahorn,2011-2040,109,109,100.0
+Aschaffenburg,Bergahorn,2041-2070,109,109,100.0
+Aschaffenburg,Bergahorn,2071-2100,109,109,100.0
+Aschaffenburg,Stieleiche,2011-2040,109,109,100.0
+Aschaffenburg,Stieleiche,2041-2070,109,109,100.0
+Aschaffenburg,Stieleiche,2071-2100,109,109,100.0
+Aschaffenburg,Winterlinde,2011-2040,109,109,100.0
+Aschaffenburg,Winterlinde,2041-2070,109,109,100.0
+Aschaffenburg,Winterlinde,2071-2100,109,54,49.54128440366973
+Aschaffenburg,Haengebirke/Sandbirke,2011-2040,109,109,100.0
+Aschaffenburg,Haengebirke/Sandbirke,2041-2070,109,109,100.0
+Aschaffenburg,Haengebirke/Sandbirke,2071-2100,109,11,10.091743119266056
+Aschaffenburg,Schwarzpappel,2011-2040,109,109,100.0
+Aschaffenburg,Schwarzpappel,2041-2070,109,109,100.0
+Aschaffenburg,Schwarzpappel,2071-2100,109,109,100.0
+Aschaffenburg,Hainbuche,2011-2040,109,109,100.0
+Aschaffenburg,Hainbuche,2041-2070,109,109,100.0
+Aschaffenburg,Hainbuche,2071-2100,109,109,100.0
+Aschaffenburg,Gemeine Esche,2011-2040,109,109,100.0
+Aschaffenburg,Gemeine Esche,2041-2070,109,109,100.0
+Aschaffenburg,Gemeine Esche,2071-2100,109,78,71.55963302752293
+Aschaffenburg,Londoner Platane,2011-2040,109,109,100.0
+Aschaffenburg,Londoner Platane,2041-2070,109,109,100.0
+Aschaffenburg,Londoner Platane,2071-2100,109,109,100.0
+Aschaffenburg,Gemeine Robinie,2011-2040,109,109,100.0
+Aschaffenburg,Gemeine Robinie,2041-2070,109,109,100.0
+Aschaffenburg,Gemeine Robinie,2071-2100,109,109,100.0
+Aschaffenburg,Gewöhnliche Rosskastanie,2011-2040,109,109,100.0
+Aschaffenburg,Gewöhnliche Rosskastanie,2041-2070,109,109,100.0
+Aschaffenburg,Gewöhnliche Rosskastanie,2071-2100,109,109,100.0
+Schweinfurt,Rotbuche,2011-2040,65,65,100.0
+Schweinfurt,Rotbuche,2041-2070,65,65,100.0
+Schweinfurt,Rotbuche,2071-2100,65,49,75.38461538461539
+Schweinfurt,Spitzahorn,2011-2040,65,65,100.0
+Schweinfurt,Spitzahorn,2041-2070,65,65,100.0
+Schweinfurt,Spitzahorn,2071-2100,65,0,0.0
+Schweinfurt,Bergahorn,2011-2040,65,65,100.0
+Schweinfurt,Bergahorn,2041-2070,65,65,100.0
+Schweinfurt,Bergahorn,2071-2100,65,65,100.0
+Schweinfurt,Stieleiche,2011-2040,65,65,100.0
+Schweinfurt,Stieleiche,2041-2070,65,65,100.0
+Schweinfurt,Stieleiche,2071-2100,65,65,100.0
+Schweinfurt,Winterlinde,2011-2040,65,65,100.0
+Schweinfurt,Winterlinde,2041-2070,65,65,100.0
+Schweinfurt,Winterlinde,2071-2100,65,65,100.0
+Schweinfurt,Haengebirke/Sandbirke,2011-2040,65,65,100.0
+Schweinfurt,Haengebirke/Sandbirke,2041-2070,65,65,100.0
+Schweinfurt,Haengebirke/Sandbirke,2071-2100,65,49,75.38461538461539
+Schweinfurt,Schwarzpappel,2011-2040,65,65,100.0
+Schweinfurt,Schwarzpappel,2041-2070,65,65,100.0
+Schweinfurt,Schwarzpappel,2071-2100,65,65,100.0
+Schweinfurt,Hainbuche,2011-2040,65,65,100.0
+Schweinfurt,Hainbuche,2041-2070,65,65,100.0
+Schweinfurt,Hainbuche,2071-2100,65,65,100.0
+Schweinfurt,Gemeine Esche,2011-2040,65,65,100.0
+Schweinfurt,Gemeine Esche,2041-2070,65,65,100.0
+Schweinfurt,Gemeine Esche,2071-2100,65,65,100.0
+Schweinfurt,Londoner Platane,2011-2040,65,65,100.0
+Schweinfurt,Londoner Platane,2041-2070,65,65,100.0
+Schweinfurt,Londoner Platane,2071-2100,65,65,100.0
+Schweinfurt,Gemeine Robinie,2011-2040,65,65,100.0
+Schweinfurt,Gemeine Robinie,2041-2070,65,65,100.0
+Schweinfurt,Gemeine Robinie,2071-2100,65,65,100.0
+Schweinfurt,Gewöhnliche Rosskastanie,2011-2040,65,65,100.0
+Schweinfurt,Gewöhnliche Rosskastanie,2041-2070,65,65,100.0
+Schweinfurt,Gewöhnliche Rosskastanie,2071-2100,65,65,100.0
+Würzburg,Rotbuche,2011-2040,161,161,100.0
+Würzburg,Rotbuche,2041-2070,161,161,100.0
+Würzburg,Rotbuche,2071-2100,161,74,45.962732919254655
+Würzburg,Spitzahorn,2011-2040,161,161,100.0
+Würzburg,Spitzahorn,2041-2070,161,161,100.0
+Würzburg,Spitzahorn,2071-2100,161,0,0.0
+Würzburg,Bergahorn,2011-2040,161,161,100.0
+Würzburg,Bergahorn,2041-2070,161,161,100.0
+Würzburg,Bergahorn,2071-2100,161,161,100.0
+Würzburg,Stieleiche,2011-2040,161,161,100.0
+Würzburg,Stieleiche,2041-2070,161,161,100.0
+Würzburg,Stieleiche,2071-2100,161,161,100.0
+Würzburg,Winterlinde,2011-2040,161,161,100.0
+Würzburg,Winterlinde,2041-2070,161,161,100.0
+Würzburg,Winterlinde,2071-2100,161,161,100.0
+Würzburg,Haengebirke/Sandbirke,2011-2040,161,161,100.0
+Würzburg,Haengebirke/Sandbirke,2041-2070,161,161,100.0
+Würzburg,Haengebirke/Sandbirke,2071-2100,161,74,45.962732919254655
+Würzburg,Schwarzpappel,2011-2040,161,161,100.0
+Würzburg,Schwarzpappel,2041-2070,161,161,100.0
+Würzburg,Schwarzpappel,2071-2100,161,161,100.0
+Würzburg,Hainbuche,2011-2040,161,161,100.0
+Würzburg,Hainbuche,2041-2070,161,161,100.0
+Würzburg,Hainbuche,2071-2100,161,161,100.0
+Würzburg,Gemeine Esche,2011-2040,161,161,100.0
+Würzburg,Gemeine Esche,2041-2070,161,161,100.0
+Würzburg,Gemeine Esche,2071-2100,161,161,100.0
+Würzburg,Londoner Platane,2011-2040,161,161,100.0
+Würzburg,Londoner Platane,2041-2070,161,161,100.0
+Würzburg,Londoner Platane,2071-2100,161,161,100.0
+Würzburg,Gemeine Robinie,2011-2040,161,161,100.0
+Würzburg,Gemeine Robinie,2041-2070,161,161,100.0
+Würzburg,Gemeine Robinie,2071-2100,161,161,100.0
+Würzburg,Gewöhnliche Rosskastanie,2011-2040,161,161,100.0
+Würzburg,Gewöhnliche Rosskastanie,2041-2070,161,161,100.0
+Würzburg,Gewöhnliche Rosskastanie,2071-2100,161,161,100.0
+Augsburg,Rotbuche,2011-2040,259,259,100.0
+Augsburg,Rotbuche,2041-2070,259,259,100.0
+Augsburg,Rotbuche,2071-2100,259,259,100.0
+Augsburg,Spitzahorn,2011-2040,259,259,100.0
+Augsburg,Spitzahorn,2041-2070,259,259,100.0
+Augsburg,Spitzahorn,2071-2100,259,0,0.0
+Augsburg,Bergahorn,2011-2040,259,259,100.0
+Augsburg,Bergahorn,2041-2070,259,259,100.0
+Augsburg,Bergahorn,2071-2100,259,259,100.0
+Augsburg,Stieleiche,2011-2040,259,259,100.0
+Augsburg,Stieleiche,2041-2070,259,259,100.0
+Augsburg,Stieleiche,2071-2100,259,259,100.0
+Augsburg,Winterlinde,2011-2040,259,259,100.0
+Augsburg,Winterlinde,2041-2070,259,259,100.0
+Augsburg,Winterlinde,2071-2100,259,259,100.0
+Augsburg,Haengebirke/Sandbirke,2011-2040,259,259,100.0
+Augsburg,Haengebirke/Sandbirke,2041-2070,259,259,100.0
+Augsburg,Haengebirke/Sandbirke,2071-2100,259,259,100.0
+Augsburg,Schwarzpappel,2011-2040,259,259,100.0
+Augsburg,Schwarzpappel,2041-2070,259,259,100.0
+Augsburg,Schwarzpappel,2071-2100,259,259,100.0
+Augsburg,Hainbuche,2011-2040,259,259,100.0
+Augsburg,Hainbuche,2041-2070,259,259,100.0
+Augsburg,Hainbuche,2071-2100,259,259,100.0
+Augsburg,Gemeine Esche,2011-2040,259,259,100.0
+Augsburg,Gemeine Esche,2041-2070,259,259,100.0
+Augsburg,Gemeine Esche,2071-2100,259,259,100.0
+Augsburg,Londoner Platane,2011-2040,259,259,100.0
+Augsburg,Londoner Platane,2041-2070,259,259,100.0
+Augsburg,Londoner Platane,2071-2100,259,259,100.0
+Augsburg,Gemeine Robinie,2011-2040,259,259,100.0
+Augsburg,Gemeine Robinie,2041-2070,259,259,100.0
+Augsburg,Gemeine Robinie,2071-2100,259,259,100.0
+Augsburg,Gewöhnliche Rosskastanie,2011-2040,259,259,100.0
+Augsburg,Gewöhnliche Rosskastanie,2041-2070,259,259,100.0
+Augsburg,Gewöhnliche Rosskastanie,2071-2100,259,259,100.0
+Kempten (Allgäu),Rotbuche,2011-2040,112,112,100.0
+Kempten (Allgäu),Rotbuche,2041-2070,112,112,100.0
+Kempten (Allgäu),Rotbuche,2071-2100,112,112,100.0
+Kempten (Allgäu),Spitzahorn,2011-2040,112,0,0.0
+Kempten (Allgäu),Spitzahorn,2041-2070,112,1,0.8928571428571428
+Kempten (Allgäu),Spitzahorn,2071-2100,112,6,5.357142857142857
+Kempten (Allgäu),Bergahorn,2011-2040,112,101,90.17857142857143
+Kempten (Allgäu),Bergahorn,2041-2070,112,104,92.85714285714286
+Kempten (Allgäu),Bergahorn,2071-2100,112,107,95.53571428571429
+Kempten (Allgäu),Stieleiche,2011-2040,112,112,100.0
+Kempten (Allgäu),Stieleiche,2041-2070,112,112,100.0
+Kempten (Allgäu),Stieleiche,2071-2100,112,112,100.0
+Kempten (Allgäu),Winterlinde,2011-2040,112,112,100.0
+Kempten (Allgäu),Winterlinde,2041-2070,112,112,100.0
+Kempten (Allgäu),Winterlinde,2071-2100,112,112,100.0
+Kempten (Allgäu),Haengebirke/Sandbirke,2011-2040,112,112,100.0
+Kempten (Allgäu),Haengebirke/Sandbirke,2041-2070,112,112,100.0
+Kempten (Allgäu),Haengebirke/Sandbirke,2071-2100,112,112,100.0
+Kempten (Allgäu),Schwarzpappel,2011-2040,112,0,0.0
+Kempten (Allgäu),Schwarzpappel,2041-2070,112,0,0.0
+Kempten (Allgäu),Schwarzpappel,2071-2100,112,1,0.8928571428571428
+Kempten (Allgäu),Hainbuche,2011-2040,112,112,100.0
+Kempten (Allgäu),Hainbuche,2041-2070,112,112,100.0
+Kempten (Allgäu),Hainbuche,2071-2100,112,112,100.0
+Kempten (Allgäu),Gemeine Esche,2011-2040,112,108,96.42857142857143
+Kempten (Allgäu),Gemeine Esche,2041-2070,112,110,98.21428571428571
+Kempten (Allgäu),Gemeine Esche,2071-2100,112,111,99.10714285714286
+Kempten (Allgäu),Londoner Platane,2011-2040,112,112,100.0
+Kempten (Allgäu),Londoner Platane,2041-2070,112,112,100.0
+Kempten (Allgäu),Londoner Platane,2071-2100,112,112,100.0
+Kempten (Allgäu),Gemeine Robinie,2011-2040,112,112,100.0
+Kempten (Allgäu),Gemeine Robinie,2041-2070,112,112,100.0
+Kempten (Allgäu),Gemeine Robinie,2071-2100,112,112,100.0
+Kempten (Allgäu),Gewöhnliche Rosskastanie,2011-2040,112,0,0.0
+Kempten (Allgäu),Gewöhnliche Rosskastanie,2041-2070,112,0,0.0
+Kempten (Allgäu),Gewöhnliche Rosskastanie,2071-2100,112,0,0.0
+Neu-Ulm,Rotbuche,2011-2040,143,143,100.0
+Neu-Ulm,Rotbuche,2041-2070,143,143,100.0
+Neu-Ulm,Rotbuche,2071-2100,143,143,100.0
+Neu-Ulm,Spitzahorn,2011-2040,143,143,100.0
+Neu-Ulm,Spitzahorn,2041-2070,143,143,100.0
+Neu-Ulm,Spitzahorn,2071-2100,143,0,0.0
+Neu-Ulm,Bergahorn,2011-2040,143,143,100.0
+Neu-Ulm,Bergahorn,2041-2070,143,143,100.0
+Neu-Ulm,Bergahorn,2071-2100,143,143,100.0
+Neu-Ulm,Stieleiche,2011-2040,143,143,100.0
+Neu-Ulm,Stieleiche,2041-2070,143,143,100.0
+Neu-Ulm,Stieleiche,2071-2100,143,143,100.0
+Neu-Ulm,Winterlinde,2011-2040,143,143,100.0
+Neu-Ulm,Winterlinde,2041-2070,143,143,100.0
+Neu-Ulm,Winterlinde,2071-2100,143,143,100.0
+Neu-Ulm,Haengebirke/Sandbirke,2011-2040,143,143,100.0
+Neu-Ulm,Haengebirke/Sandbirke,2041-2070,143,143,100.0
+Neu-Ulm,Haengebirke/Sandbirke,2071-2100,143,143,100.0
+Neu-Ulm,Schwarzpappel,2011-2040,143,143,100.0
+Neu-Ulm,Schwarzpappel,2041-2070,143,143,100.0
+Neu-Ulm,Schwarzpappel,2071-2100,143,143,100.0
+Neu-Ulm,Hainbuche,2011-2040,143,143,100.0
+Neu-Ulm,Hainbuche,2041-2070,143,143,100.0
+Neu-Ulm,Hainbuche,2071-2100,143,143,100.0
+Neu-Ulm,Gemeine Esche,2011-2040,143,143,100.0
+Neu-Ulm,Gemeine Esche,2041-2070,143,143,100.0
+Neu-Ulm,Gemeine Esche,2071-2100,143,143,100.0
+Neu-Ulm,Londoner Platane,2011-2040,143,143,100.0
+Neu-Ulm,Londoner Platane,2041-2070,143,143,100.0
+Neu-Ulm,Londoner Platane,2071-2100,143,143,100.0
+Neu-Ulm,Gemeine Robinie,2011-2040,143,143,100.0
+Neu-Ulm,Gemeine Robinie,2041-2070,143,143,100.0
+Neu-Ulm,Gemeine Robinie,2071-2100,143,143,100.0
+Neu-Ulm,Gewöhnliche Rosskastanie,2011-2040,143,143,100.0
+Neu-Ulm,Gewöhnliche Rosskastanie,2041-2070,143,143,100.0
+Neu-Ulm,Gewöhnliche Rosskastanie,2071-2100,143,143,100.0
